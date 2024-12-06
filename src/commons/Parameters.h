@@ -323,6 +323,10 @@ public:
     static const int PARAM_RESULT_DIRECTION_QUERY  = 0;
     static const int PARAM_RESULT_DIRECTION_TARGET = 1;
 
+    // translation mode
+    static const int PARAM_TRANSLATION_MODE_ORF = 0;
+    static const int PARAM_TRANSLATION_MODE_FRAME = 1;
+
     // path to databases
     std::string db1;
     std::string db1Index;
@@ -471,6 +475,7 @@ public:
     float orfFilterSens;
     double orfFilterEval;
     bool lcaSearch;
+    int translationMode;
 
     // easysearch
     bool greedyBestHits;
@@ -531,6 +536,7 @@ public:
     int pcmode;
     MultiParam<PseudoCounts> pca;
     MultiParam<PseudoCounts> pcb;
+    int profileOutputMode;
 
     // sequence2profile
     float neff;
@@ -850,6 +856,7 @@ public:
     PARAMETER(PARAM_PC_MODE)
     PARAMETER(PARAM_PCA)
     PARAMETER(PARAM_PCB)
+    PARAMETER(PARAM_PROFILE_OUTPUT_MODE)
 
     // sequence2profile
     PARAMETER(PARAM_NEFF)
@@ -892,6 +899,7 @@ public:
     PARAMETER(PARAM_ORF_FILTER_S)
     PARAMETER(PARAM_ORF_FILTER_E)
     PARAMETER(PARAM_LCA_SEARCH)
+    PARAMETER(PARAM_TRANSLATION_MODE)
 
     // easysearch
     PARAMETER(PARAM_GREEDY_BEST_HITS)
