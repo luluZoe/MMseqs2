@@ -29,7 +29,7 @@
           <mxGeometry x="300" y="426" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jRq4f0dHmoYkh1xwb2FS-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;data&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="175" y="484" width="110" height="30" as="geometry" />
+          <mxGeometry x="230" y="480" width="65" height="34" as="geometry" />
         </mxCell>
         <mxCell id="jRq4f0dHmoYkh1xwb2FS-14" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;pssm_gapless&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="425" y="520" width="110" height="30" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="410" y="426" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jRq4f0dHmoYkh1xwb2FS-27" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;数据处理&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="520" width="80" height="30" as="geometry" />
+          <mxGeometry x="150" y="484" width="80" height="26" as="geometry" />
         </mxCell>
         <mxCell id="jRq4f0dHmoYkh1xwb2FS-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=dots;dashed=1;dashPattern=1 1;strokeWidth=3;fillColor=none;strokeColor=#d51515;" parent="1" vertex="1">
           <mxGeometry x="300" y="480" width="240" height="75" as="geometry" />
@@ -81,6 +81,12 @@
         </mxCell>
         <mxCell id="jRq4f0dHmoYkh1xwb2FS-29" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;内核模块&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="325" y="484" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0NDx4wGlD2URgJivxCEZ-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;......&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="230" y="518" width="65" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="0NDx4wGlD2URgJivxCEZ-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;其他&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="522" width="80" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
